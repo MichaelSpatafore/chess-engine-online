@@ -4,7 +4,7 @@ Web implementation of this [chess engine](https://github.com/Skripkon/chess-engi
 
 This project uses ONNX model instead of PyTorch model to make possible running the engine on the web. Although the model operates on the CPU since utilizeing CUDA cores for acceleration on the web is not feasible the performance remains sufficiently high to ensure an enjoyable gaming experience.
 
-You can try this game [here](https://setday.github.io/chess-engine-online/)
+You can try this game [here](https://michaelspatafore.github.io/chess-engine-online/)
 
 ## Setup:
 
